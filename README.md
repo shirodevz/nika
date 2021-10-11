@@ -1,6 +1,5 @@
 # nika
-[![Total downloads](https://github.com/shirodevz/nika/releases)]
-[![Discord server](https://discord.gg/Fs6DXwVQGg)]
+[Discord server](https://discord.gg/Fs6DXwVQGg)]
 
 This client aims for:
 - Stable behavior and performance
